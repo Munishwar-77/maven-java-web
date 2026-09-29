@@ -1,0 +1,1 @@
+# Maven Web Lab Project\n\nA minimal JSP web application packaged as a WAR for Jenkins/Tomcat practice.\n\nBuild: `mvn clean package`\n\nDeploy `target/maven-web.war` to a compatible Tomcat server.\n
